@@ -1,0 +1,1 @@
+# cloudguru-certified-kubernetes-administrator
